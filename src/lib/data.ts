@@ -84,11 +84,10 @@ export const projects = [
     ],
   },
   {
-    title: "Centro de Desarrollo Integral de la Familia - Bagua, Amazonas",
-    github: "https://github.com/CristhianMillier/CEDIF",
+    title: "Portafolio Personal",
+    github: "https://github.com/CristhianMillier/myPortofolio",
     description: [
-      "Aplicación de escritorio para llevar control de los alimentos que cuenta CEDIF - Bagua.",
-      "Desarrollada con el lenguaje de programación Java 8 y base de datos SQL Server",
+      "Portafolio desarrollado con Astro",
     ],
   },
   {
@@ -96,6 +95,14 @@ export const projects = [
     github: "https://github.com/CristhianMillier/6aBrigSelvaSib",
     description: [
       "Aplicación móvil informativa.",
+    ],
+  },
+  {
+    title: "Centro de Desarrollo Integral de la Familia - Bagua, Amazonas",
+    github: "https://github.com/CristhianMillier/CEDIF",
+    description: [
+      "Aplicación de escritorio para llevar control de los alimentos que cuenta CEDIF - Bagua.",
+      "Desarrollada con el lenguaje de programación Java 8 y base de datos SQL Server",
     ],
   },
   {
