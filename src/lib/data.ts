@@ -133,6 +133,26 @@ export const projects = [
 
 export const awards = [
   {
+    name: "Angular Avanzado",
+    issuer: "Platzi",
+    date: "Abr 13 2025",
+  },
+  {
+    name: "Desarrollo de API REST: Estándares y Buenas Prácticas",
+    issuer: "Platzi",
+    date: "Abr 12 2025",
+  },
+  {
+    name: "Fundamentos de IA para Data y Machine Learning",
+    issuer: "Platzi",
+    date: "Abr 11 2025",
+  },
+  {
+    name: "Desarrollo de Chat Bots con OPEN AI",
+    issuer: "Platzi",
+    date: "Abr 11 2025",
+  },
+  {
     name: "Network equipment installation and configuration, commissioning, HSU and replacement",
     issuer: "YOFC PERU S.A.C.",
     date: "May 2024",
